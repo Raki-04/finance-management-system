@@ -86,5 +86,5 @@ This project is licensed under the MIT License.
 
 ## ✨ Author
 
-Made with ❤️ by Hemendran
+Made with ❤️ by Rakesh
 ```
